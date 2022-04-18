@@ -1,3 +1,7 @@
+This is a tutorial originally posted [here](https://steamcommunity.com/sharedfiles/filedetails/?id=709640164) to play nuclear throne local co-op with two mice. 
+
+---
+
  Short description:
  
  nt2mice.pie - script for desktop computers
